@@ -101,19 +101,20 @@
     <Content Include="css\owl.carousel.min.css" />
     <Content Include="css\owl.theme.default.min.css" />
     <Content Include="css\simplebar.min.css" />
-    <Content Include="icons\bootstrap.png" />
+    <Content Include="icons\bootstrap-plain-wordmark.svg" />
+    <Content Include="icons\csharp-original.svg" />
     <Content Include="icons\css3-plain-wordmark.svg" />
-    <Content Include="icons\css3.png" />
-    <Content Include="icons\sql.png" />
-    <Content Include="icons\html5.png" />
-    <Content Include="icons\js.png" />
+    <Content Include="icons\html5-plain-wordmark.svg" />
+    <Content Include="icons\javascript-original.svg" />
+    <Content Include="icons\javascript-plain.svg" />
     <Content Include="icons\kb_favicon.png" />
     <Content Include="icons\menu_icon.png" />
-    <Content Include="icons\php.png" />
-    <Content Include="icons\csharp.png" />
+    <Content Include="icons\php-original.svg" />
+    <Content Include="icons\php-plain.svg" />
     <Content Include="images\placeholder_about.jpg" />
     <Content Include="images\placeholder_main.jpg" />
     <Content Include="images\placeholder_profile.jpg" />
+    <Content Include="images\signature.png" />
     <Content Include="index.html" />
     <Content Include="js\animatedModal.js" />
     <Content Include="js\bootstrap.bundle.min.js" />
@@ -158,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\ionicons.woff2" />
+    <Content Include="fonts\Raleway-VariableFont_wght.ttf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
